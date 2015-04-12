@@ -1,0 +1,25 @@
+{
+  "name": "reactD3",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hariDasu/reactd3",
+  "authors": [
+    "hariDasu <harirao3@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.5",
+    "react": "~0.13.1",
+    "bootstrap": "~3.3.4",
+    "lodash": "~3.6.0"
+  }
+}
