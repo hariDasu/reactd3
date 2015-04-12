@@ -1,0 +1,19 @@
+{
+  "name": "reactD3",
+  "version": "1.0.0",
+  "description": "learning react + d3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hariDasu/reactd3.git"
+  },
+  "author": "Srihari Rao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariDasu/reactd3/issues"
+  },
+  "homepage": "https://github.com/hariDasu/reactd3"
+}
